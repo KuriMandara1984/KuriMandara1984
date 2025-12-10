@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JerryKuri
-- 👀 I’m interested in Telecommunication Systems, Wireless Technology, 5G/6G Networks and Systems, AI/ML Apllication and Integration and Cybersecurity Engineering.
+- 👀 I’m interested in Telecommunication Systems, Wireless Security Systems, 5G/6G Networks and Systems, AI/ML Application and Integration and Cybersecurity Engineering.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
